@@ -1,5 +1,5 @@
 # angleServe
-from terminal\
+after clone from terminal\
 cd into angleServe\
 then\
 npm install -g typings\
